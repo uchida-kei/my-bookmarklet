@@ -13,3 +13,6 @@ javascript%3a%28%28%29%3d%3e%7bel%3ddocument%2ecreateElement%28%27script%27%29%3
 
 [Hello World!][1]
 [1]:javascript:alert('Hello World')
+
+[Hello](javascript:function my_bookmarklet(\){alert('Hello World'\);}my_bookmarklet(\);)
+
